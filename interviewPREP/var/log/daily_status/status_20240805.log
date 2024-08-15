@@ -1,0 +1,13 @@
+Disk Usage: 
+Filesystem             Size  Used Avail Use% Mounted on
+devtmpfs               4.0M     0  4.0M   0% /dev
+tmpfs                  1.4G     0  1.4G   0% /dev/shm
+tmpfs                  557M  8.2M  548M   2% /run
+/dev/mapper/rhel-root   36G  7.6G   29G  22% /
+/dev/sda1              960M  517M  444M  54% /boot
+tmpfs                  279M  104K  278M   1% /run/user/1000
+Memory Usage: 
+               total        used        free      shared  buff/cache   available
+Mem:           2.7Gi       1.2Gi       851Mi        24Mi       920Mi       1.5Gi
+Swap:          3.0Gi          0B       3.0Gi
+Network Status: 
